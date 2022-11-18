@@ -1,0 +1,14 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+}
+h2 {
+    color: brown;
+}
+img {
+    width: 500px;
+    height: auto;
+}
+.links {
+    color: black;
+}
